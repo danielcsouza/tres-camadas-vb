@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RegrasNegocios
+</name>
+</assembly>
+<members>
+<member name="P:RegrasNegocios.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:RegrasNegocios.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:RegrasNegocios.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:RegrasNegocios.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:RegrasNegocios.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:RegrasNegocios.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:RegrasNegocios.RegrasNegocios.Usuarios.EditarUsuario(System.Int32,System.String,System.String,System.String)">
+	<summary>
+ Método para edição de dados de um determinado usuario
+ </summary>
+	<param name="CodigoUsuario">Código de usuario</param>
+	<param name="Nome"></param>
+	<param name="Login"></param>
+	<param name="Senha"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:RegrasNegocios.RegrasNegocios.Usuarios.AcessarSistema(System.String,System.String)">
+	<summary>
+ Método de login no sistema
+ </summary>
+	<param name="Login"></param>
+	<param name="Senha"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:RegrasNegocios.RegrasNegocios.Usuarios.AdicionarUsuario(System.String,System.String,System.String)">
+	<summary>
+ Método para inserção do usuario
+ </summary>
+	<param name="Nome"></param>
+	<param name="Login"></param>
+	<param name="Senha"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:RegrasNegocios.RegrasNegocios.Usuarios.ListarUsuario(System.Int32)">
+	<summary>
+ Método que lista dados de um determinado usuario
+ </summary>
+	<param name="CodigoUsuario">Código de usuario</param>
+	<returns>Retorna um DataTable com os dados do usuario</returns>
+	<remarks></remarks>
+</member><member name="M:RegrasNegocios.RegrasNegocios.Usuarios.ExcluirUsuario(System.Int32)">
+	<summary>
+ Método que exclui os dados de um usuario
+ </summary>
+	<param name="CodigoUsuario"></param>
+	<returns>Retorna booleano se apagou ou nao</returns>
+	<remarks></remarks>
+</member><member name="M:RegrasNegocios.RegrasNegocios.Usuarios.ListarTodosUsuarios">
+	<summary>
+ Método que retorna todos os usuarios cadastrados
+ </summary>
+	<returns>Retorna um DataTable com os dados do usuario passado</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

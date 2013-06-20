@@ -1,0 +1,15 @@
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\camadas_VB.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\camadas_VB.pdb
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\camadas_VB.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\RegrasNegocios.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\AcessoDados.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\RegrasNegocios.pdb
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\RegrasNegocios.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\AcessoDados.pdb
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\bin\AcessoDados.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\obj\Debug\WEB.vbprojResolveAssemblyReference.cache
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\obj\Debug\camadas_VB.Resources.resources
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\obj\Debug\WEB.vbproj.GenerateResource.Cache
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\obj\Debug\camadas_VB.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\obj\Debug\camadas_VB.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\camadas_VB\obj\Debug\camadas_VB.pdb

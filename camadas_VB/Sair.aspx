@@ -1,0 +1,1 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Sair.aspx.vb" Inherits="camadas_VB.Sair" %>

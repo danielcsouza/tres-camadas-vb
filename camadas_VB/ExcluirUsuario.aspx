@@ -1,0 +1,1 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="ExcluirUsuario.aspx.vb" Inherits="camadas_VB.ExcluirUsuario" %>

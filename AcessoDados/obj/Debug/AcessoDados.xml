@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AcessoDados
+</name>
+</assembly>
+<members>
+<member name="P:AcessoDados.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:AcessoDados.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:AcessoDados.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:AcessoDados.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:AcessoDados.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:AcessoDados.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:AcessoDados.AcessoDados.Usuarios.ListarUsuario(System.Int32)">
+	<summary>
+ Método para listar usuário pelo código
+ </summary>
+	<param name="codigo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AcessoDados.AcessoDados.Usuarios.AcessarSistema(System.String,System.String)">
+	<summary>
+ Método de para acessar o sistema através do login
+ </summary>
+	<param name="Login"></param>
+	<param name="Senha"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AcessoDados.AcessoDados.Usuarios.AdicionarUsuario(System.String,System.String,System.String)">
+	<summary>
+ Método para add Usuario
+ </summary>
+	<param name="Nome">Nome do usuario</param>
+	<param name="Login">Login do usuario</param>
+	<param name="Senha">Senha do usuario</param>
+	<returns>Retorna boolenano se gravou corretamente</returns>
+	<remarks></remarks>
+</member><member name="M:AcessoDados.AcessoDados.Usuarios.ListarTodosUsuarios">
+	<summary>
+ Método para listar todos os usuários
+ </summary>
+	<returns>Retorna um Datatable com os dados</returns>
+	<remarks></remarks>
+</member><member name="M:AcessoDados.AcessoDados.Usuarios.ExcluirUsuario(System.Int32)">
+	<summary>
+ Método para Exclusão de usuário
+ </summary>
+	<param name="CodigoUsuario">Código</param>
+	<returns> Retorna booleano se exclui ou não</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,8 @@
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\bin\AcessoDados.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\bin\AcessoDados.pdb
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\bin\AcessoDados.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\obj\Debug\AcessoDados.Resources.resources
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\obj\Debug\AcessoDados.vbproj.GenerateResource.Cache
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\obj\Debug\AcessoDados.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\AcessoDados\obj\Debug\AcessoDados.pdb

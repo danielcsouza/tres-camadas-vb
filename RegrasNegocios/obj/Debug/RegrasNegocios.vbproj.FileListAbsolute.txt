@@ -1,0 +1,12 @@
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\bin\RegrasNegocios.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\bin\RegrasNegocios.pdb
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\bin\RegrasNegocios.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\bin\AcessoDados.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\bin\AcessoDados.pdb
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\bin\AcessoDados.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\obj\Debug\RegrasNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\obj\Debug\RegrasNegocios.Resources.resources
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\obj\Debug\RegrasNegocios.vbproj.GenerateResource.Cache
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\obj\Debug\RegrasNegocios.dll
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\obj\Debug\RegrasNegocios.xml
+C:\Users\04033.SB00BASE\Documents\Visual Studio 2012\Projects\camadas_VB\RegrasNegocios\obj\Debug\RegrasNegocios.pdb

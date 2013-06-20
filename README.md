@@ -31,7 +31,7 @@ CREATE TABLE [dbo].[USUARIOS](
 GO
 
 </blockquote>
-<li>Altere o arquivo AcessoBanco.cs no projeto AcessoDados para a configuração do seu banco de dados e usuario</li>
+<li>Altere o arquivo AcessoBanco.vb no projeto AcessoDados para a configuração do seu banco de dados e usuario</li>
 <li>Abra o projeto no seu Visual Studio e pronto!</li>
 <li>Bom proveito e bons estudos</li>
 </ol>
